@@ -8,7 +8,7 @@
 ## 🔗 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=flat&logo=fauxfolio&logoColor=white)](https://katherineoelsner.com/)
 [!["Linkedin"](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-sharma-ps565/)
-[!["Twitter"](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prashantshar5)
+[!["X"](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/prashantshar5)
 [!["Instagram"](https://img.shields.io/badge/Instagram-%23C13584.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_prashantsharma_/)
 [!["npm"](https://img.shields.io/badge/npm-%23ff0000.svg?logo=npm&logoColor=white)](https://www.npmjs.com/~prashants565)
 
