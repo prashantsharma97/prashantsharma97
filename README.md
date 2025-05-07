@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Nestjs.
 
 ## 🔗 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=flat&logo=fauxfolio&logoColor=white)](https://katherineoelsner.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=flat&logo=fauxfolio&logoColor=white)](https://jsonsharma.netlify.app)
 [!["Linkedin"](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-sharma-ps565/)
 [!["X"](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/prashantshar5)
 [!["Instagram"](https://img.shields.io/badge/Instagram-%23C13584.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_prashantsharma_/)
